@@ -1,0 +1,38 @@
+
+* {
+    box-sizing: border-box;
+    background-color: rgb(0, 0, 0);
+    color: beige;
+  }
+  
+  article {
+    margin: auto;
+    width: fit-content;
+    max-width: 60%;
+  }
+  
+  .elem {
+    border: 1px solid white;
+    width: 10rem;
+    height: 15rem;
+  }
+
+  
+  
+  pd {
+    border: 1px solid white;
+    width: 10rem;
+    height: 15rem;
+    margin: auto;
+    text-align: center;
+    
+  }
+  
+  .tartalom {
+    border: 1px solid white;
+    width: 10rem;
+    height: 15rem;
+    margin: auto;
+    text-align: center;
+    
+  }
